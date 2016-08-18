@@ -71,5 +71,5 @@ void loop() {
 ## License and copyright
 
 Nelma is released under The Unlicense, so it is in public domain.
-The COBS library is licensed under a conditionless variant of the BSD
-license.
+The COBS library by Jacques Fortier is licensed under a
+conditionless variant of the BSD license.
